@@ -5,13 +5,14 @@
  */
 package timemanagementapplication;
 
+import javax.microedition.lcdui.*;
 import javax.microedition.midlet.*;
 
 /**
  * @author Hien
  */
 public class TimeManagementMain extends MIDlet {
-
+    TextField txtTest;
     public void startApp() {
     }
     
